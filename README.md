@@ -1,6 +1,6 @@
 # taxi-price
 
-It is my first Go project - simplified version of the Yandex taxi price calculator - nothing fancy here, just a little practice for me
+This is my first Go project - simplified version of the Yandex taxi price calculator - nothing fancy here, just a little practice for me
 
 # Running the script
 
